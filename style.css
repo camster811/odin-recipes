@@ -1,6 +1,16 @@
+body {
+    background-color: lightblue;
+}
 h1 {
     text-align: center;
     text-decoration: underline;
     color: green;
-    font-weight: bold;
+    font-size: 75px;
 }
+
+ul {
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
